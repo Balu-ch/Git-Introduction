@@ -1,2 +1,2 @@
 This is an example file for git repositary.
-this is the branch of repository
+this is the branch of repository	
